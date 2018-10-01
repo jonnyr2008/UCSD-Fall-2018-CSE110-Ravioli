@@ -7,4 +7,4 @@ UCSD 2018 CSE110 Team Project. Aim to convince CEO team along with other custome
 
 ## CAST  
 
-# * Copyright Reserved *  
+# *Copyright Reserved*  
